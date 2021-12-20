@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<script src="http://code.jquery.com/jquery-<?php echo $code['jQuery']; ?>.min.js"></script>
+	<script src="//code.jquery.com/jquery-<?php echo $code['jQuery']; ?>.min.js"></script>
 	<script src="code/base/extensions.js" type="text/javascript"></script>
 
 	<script>var env=<?php echo Env::getNoOutput(); ?>;</script>
